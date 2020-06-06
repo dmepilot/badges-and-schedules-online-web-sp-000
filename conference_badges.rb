@@ -18,5 +18,5 @@ end
 def printer(speakers)
   speakers.each do |speaker|
   puts "#{batch_badge_creator(speaker)}"
-end
+  end
 end
